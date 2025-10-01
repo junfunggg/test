@@ -3,4 +3,4 @@
 ## Interactive Heatmaps
 - [Interactive Heatmap of Species Abundance across Sites (open in browser)](https://junfunggg.github.io/Plots/species_heatmap.html)
 ## Interactive Maps
-- [Interactive Map of Malaysian Phoridae Study (open in browser)](https://junfunggg.github.io/Plots/interactive_maps.html)
+- [Interactive Map of Malaysian Phoridae Study (open in browser)](https://junfunggg.github.io/Plots/interactive_3maps.html)
